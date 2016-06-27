@@ -1,10 +1,12 @@
-# React Native application for Telescope (https://github.com/TelescopeJS/Telescope)
+# React Native application for Telescope 
+(https://github.com/TelescopeJS/Telescope)
 
 Very early stage. Feel free to contribute!
 
 
 
-## Project is Based on awesome React Native Meteor Boilerplate (https://github.com/spencercarli/react-native-meteor-boilerplate)
+## Project is Based on awesome React Native Meteor Boilerplate
+(https://github.com/spencercarli/react-native-meteor-boilerplate)
 
 This is a simple way to get started building an app with React Native and Meteor. It is opinionated to make it easy for people to start but if you have your own way of doing things it's very easy to swap things out and move them around however you see fit.
 
